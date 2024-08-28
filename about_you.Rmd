@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Jordan ellis"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,8 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I Attented lancaster high school. I graduated in 2024
+  math and english are tottaly different for me. Math was always the better subject for me 
      
 
 
@@ -26,14 +27,16 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+  i would rate my computer skills an 6. I know a little bit about computers 
+ the connection at my house is pretty good. It runs everything else pretty fast so i assume it should run a computer fast aswell 
+   
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+  my name is jordan. i dont really have a nickname i go by. 
    
  
 
@@ -44,7 +47,9 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+  I want to be succesfull and own a bussness 
+   math would be my greatest interesr. I have always been good at math
+   I am going to school for bussness
    
  
 
@@ -55,7 +60,9 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+  I have never been to a foreign countries. I have only been to 3 different states 
+  I want to travel to the dominican republic. I think they have good food out there
+  if I was drafted to the military i would go to the navy. my uncle is in the navy 
    
   
 
@@ -68,7 +75,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+  I am currently taking  math115 and plan on taking 116 in the future
    
  
 
